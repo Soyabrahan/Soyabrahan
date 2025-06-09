@@ -22,7 +22,7 @@
 
 ---
 
-<h2 align="center">¡Hola! 👋 Soy Abraham</h2>
+<h2 align="center">¡Hola! 👋 Soy Abrahan</h2>
 
 ---
 
@@ -30,7 +30,7 @@
 
 <ul>
   <li>🌎 Soy de Venezuela</li>
-  <li>🔭 Estudiante de Ingeniería en Computación</li>
+  <li>🔭 Estudiante de Ingeniería Informatica</li>
   <li>📚 Actualmente aprendiendo <b>programación web</b> e <b>IA</b></li>
   <li>⚡ En mi tiempo libre me gusta jugar videojuegos y hacer ejercicio</li>
 </ul>
