@@ -3,13 +3,15 @@
 </div>
 
 ---
+<h2 align="center">Comunicate Conmigo</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abrahan-ramirez-0b10bb368/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:Abrahanramirez2410@gmail.com" target="_blank">
+ <a href="mailto:Abrahanramirez2410@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
   </a>
   <a href="https://wa.me/584120187917" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
